@@ -1,0 +1,9 @@
+﻿  Phedun Lab4.cpp
+C:\Users\Professional\Desktop\Phedun Lab4\Phedun Lab4\Phedun Lab4.cpp(146,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Professional\Desktop\Phedun Lab4\Phedun Lab4\Phedun Lab4.cpp(147,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Professional\Desktop\Phedun Lab4\Phedun Lab4\Phedun Lab4.cpp(148,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Professional\Desktop\Phedun Lab4\Phedun Lab4\Phedun Lab4.cpp(166,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Professional\Desktop\Phedun Lab4\Phedun Lab4\Phedun Lab4.cpp(205,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Professional\Desktop\Phedun Lab4\Phedun Lab4\Phedun Lab4.cpp(206,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Professional\Desktop\Phedun Lab4\Phedun Lab4\Phedun Lab4.cpp(320,22): warning C4101: error: неиспользованная локальная переменная
+  Phedun Lab4.vcxproj -> C:\Users\Professional\Desktop\Phedun Lab4\x64\Debug\Phedun Lab4.exe
